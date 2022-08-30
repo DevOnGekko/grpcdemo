@@ -1,0 +1,14 @@
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\GrpcService2.exe
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\appsettings.Development.json
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\appsettings.json
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\GrpcService2.dll
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\GrpcService2.runtimeconfig.json
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\GrpcService2.pdb
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\Google.Protobuf.dll
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\Grpc.AspNetCore.Server.dll
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\Grpc.Core.Api.dll
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\Grpc.Net.Client.dll
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\Grpc.Net.ClientFactory.dll
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\Grpc.Net.Common.dll
+C:\Users\vischa\source\repos\GrpcService1\GrpcService2\obj\Docker\publish\GrpcService2.deps.json

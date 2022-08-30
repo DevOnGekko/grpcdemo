@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "AttestService1";
+
+package attest;
+
+// The greeting service definition.
+service CMAA {
+  // Sends a greeting
+  rpc Attest (AttestRequest) returns (AttestReply);
+}
+
+// The request message containing the user's name.
+message AttestRequest {
+  string tee = 1;
+}
+
+// The response message containing the greetings.
+message AttestReply {
+  string token = 1;
+}
